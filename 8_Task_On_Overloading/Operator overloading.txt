@@ -1,0 +1,25 @@
+1. For this task you have to use the Box class with length, width and height properties
+Overload + operator, to combine two box object and create a new object from it.
+if you have Box1 and Box2 the new combined box's,
+length will be equal to sum of the length of Box1 and Box2.
+width will be equal to sum of the width of Box1 and Box2.
+height will be equal to sum of the height of Box1 and Box2.
+
+also,
+
+Overload * operator, to combine two box object and create a new object from it.
+if you have Box1 and Box2 the new combined box's,
+length will be equal to multiplication of the length of Box1 and Box2.
+width will be equal to multiplication of the width of Box1 and Box2.
+height will be equal to multiplication of the height of Box1 and Box2.
+
+
+2.
+For this task you have to use the Account class that was developed in previous classes
+overload + operator for Account class in such a way that,
+if acc is an Account Object and amount is an integer value 
+we will be able to do,
+
+acc = acc + amount
+
+the amount will be added to the balance of acc object, similar as deposite method.
